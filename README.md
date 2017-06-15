@@ -2,6 +2,6 @@
  Leonardo Lopez
  Ramirez Maximiliano
  Enzo Urbani
- Gabriel Romero
+ **Gabriel Romero
  Nuevo nombre
 
