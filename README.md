@@ -1,5 +1,7 @@
 # Gwarek
-leoanrdo lopez
+ Leonardo Lopez
  Ramirez Maximiliano
-enzo urbani
+ Enzo Urbani
+ Gabriel Romero
  Nuevo nombre
+
